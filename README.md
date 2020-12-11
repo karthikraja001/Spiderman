@@ -14,12 +14,12 @@
 
 * This is a Jupyter Notebook, which scraps the famous e-commerce sites and other purpose sites.
 * The Sites Scraped by this notebooks are
-  >Amazon
-  >Flipkart
-  >Carwale.com (Scraps car price and links)
-  >Bikewale.com (Scraps Bike price and links)
-  >91mobiles.com (Scraps Phone price and various specifications)
-  >Yts.mx (Scraps movie download links from yts site)
+  > * Amazon
+  > * Flipkart
+  > * Carwale.com (Scraps car price and links)
+  > * Bikewale.com (Scraps Bike price and links)
+  > * 91mobiles.com (Scraps Phone price and various specifications)
+  > * Yts.mx (Scraps movie download links from yts site)
 
 
 <br/>
